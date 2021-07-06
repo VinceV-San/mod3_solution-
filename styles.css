@@ -1,0 +1,67 @@
+/********** Large devices only **********/
+@media (min-width: 1200px) {
+
+    
+  }
+  
+  /********** Medium devices only **********/
+  @media (min-width: 992px) and (max-width: 1199px) {
+
+  }
+  
+  /********** Small devices only **********/
+  @media (min-width: 768px) and (max-width: 991px) {
+
+  }
+  
+  /********** Extra small devices only **********/
+  @media (max-width: 767px) {
+
+  }
+  
+  
+  /********** Super extra small devices Only :-) (e.g., iPhone 4) **********/
+  @media (max-width: 576px) {
+
+
+
+  }
+
+  /*********Header*******************/
+
+  .navbar-collapse {
+      padding-top: 10px;
+    }
+
+    .navbar-brand {
+        font-size: 2em;
+        margin-left: 20px;
+    }
+
+    .navbar-toggler {
+        align-items: left;
+    }
+  /************Body******************/
+
+ 
+  p {
+      font-size: 1.5em;
+  }
+  
+ .page-header {
+      padding-top: white;
+      padding-top: 25px;
+  }
+
+  #menu-categories.container {
+    background-color: rgb(121, 124, 133);
+  }
+
+  #menu-title-1, #menu-title-2, #menu-title-3 {
+      text-align: center;
+      font-size: 1.2em;
+  }
+
+  #p1, #p2, #p3 {
+      padding-bottom: 25px;
+  }
